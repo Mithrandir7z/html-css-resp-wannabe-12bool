@@ -101,6 +101,13 @@
     .col-lg-12 {
         width: calc( ( 100% / 12 ) * 12 );
     }
+
+
+
+    /*hidden*/
+    .col-lg-hidden {
+        display: none;
+    }
 }
 
 
@@ -155,6 +162,12 @@
     .col-md-12 {
         width: calc( ( 100% / 12 ) * 12 );
     }
+
+
+    /*hidden*/
+    .col-md-hidden {
+        display: none;
+    }
 }
 
 
@@ -208,6 +221,12 @@
 
     .col-xs-12 {
         width: calc( ( 100% / 12 ) * 12 );
+    }
+
+
+    /*hidden*/
+    .col-xs-hidden {
+        display: none;
     }
 }
 
